@@ -206,10 +206,12 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 
+
 ![image](https://github.com/Goutham2306/Implementation-of-filter/assets/138971154/095f3934-fa5f-4094-8807-f5070e5c43d3)
 
 
 ii) Using Laplacian Operator
+
 
 ![image](https://github.com/Goutham2306/Implementation-of-filter/assets/138971154/1f458dc9-ff77-4ddc-bf6c-67190024f09a)
 
