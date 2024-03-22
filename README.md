@@ -183,28 +183,34 @@ plt.axis('off')
 </br>
 
 i) Using Averaging Filter
+
 ![image](https://github.com/Goutham2306/Implementation-of-filter/assets/138971154/7a0d36d4-8b71-4f73-ace7-f37ac8fee66a)
 
 
 ii) Using Weighted Averaging Filter
+
 ![image](https://github.com/Goutham2306/Implementation-of-filter/assets/138971154/b1eaf652-87da-44c1-ba8b-380c7c38e892)
 
 
 iii) Using Gaussian Filter
+
 ![image](https://github.com/Goutham2306/Implementation-of-filter/assets/138971154/19cde7ef-fc92-4545-abf8-6d36fad3dcfd)
 
 
 iv) Using Median Filter
+
 ![image](https://github.com/Goutham2306/Implementation-of-filter/assets/138971154/4a67d393-3751-4688-9016-979584cdc1a2)
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
+
 ![image](https://github.com/Goutham2306/Implementation-of-filter/assets/138971154/095f3934-fa5f-4094-8807-f5070e5c43d3)
 
 
 ii) Using Laplacian Operator
+
 ![image](https://github.com/Goutham2306/Implementation-of-filter/assets/138971154/1f458dc9-ff77-4ddc-bf6c-67190024f09a)
 
 ## Result:
